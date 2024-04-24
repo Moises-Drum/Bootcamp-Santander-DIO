@@ -1,2 +1,3 @@
 # Bootcamp-Santander-DIO
-Teste
+
+Aui está armazenado o conteúdo referente ao Bootcamp Santander da DIO.
